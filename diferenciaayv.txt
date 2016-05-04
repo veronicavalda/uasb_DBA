@@ -1,0 +1,2 @@
+v: Muestra el pantalla cada acción que hace pg_dump en el proceso de backup.
+a: Saca el backup solo de los datos.
